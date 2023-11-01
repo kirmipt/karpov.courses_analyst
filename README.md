@@ -96,4 +96,3 @@
 * BI-системы [Tableau](https://www.tableau.com/), [DataLens](https://datalens.yandex/7o7is1q6ikh23?tab=X1), [Superset](https://superset.apache.org/).
 
 -----------------------------
-### Дополнительно
