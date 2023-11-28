@@ -2,7 +2,7 @@
 
 
 Проекты, лекции и практические задания:
-!!!!Без гиперссылки - не пройденный материал
+<br>**!!!!Без гиперссылки - не пройденный материал**
 
 * [Python](https://github.com/kirmipt/karpov.courses_analyst/tree/main/1%20Python)
   + [Введение в питон и интерфейс Jupyter-Notebook](https://github.com/kirmipt/karpov.courses_analyst/tree/main/1%20Python/1%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BF%D0%B8%D1%82%D0%BE%D0%BD%20%D0%B8%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%20Jupyter-Notebook)
