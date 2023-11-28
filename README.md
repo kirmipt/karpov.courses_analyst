@@ -84,7 +84,7 @@
 
     + библиотеки для визуализации данных [Matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/);
 
-    + вспомогательные библиотеки [datetime](https://docs.python.org/3/library/datetime.html), [requests](https://pythonru.com/biblioteki/kratkoe-rukovodstvo-po-biblioteke-python-requests), [vk_api](https://vk-api.readthedocs.io/en/latest/), [gspread](https://docs.gspread.org/en/latest/), [holidays](https://pypi.org/project/holidays/), [io](https://docs.python.org/3/library/io.html), [urllib.parse](https://docs.python.org/3/library/urllib.parse.html);
+    + вспомогательные библиотеки [datetime](https://docs.python.org/3/library/datetime.html), [os](https://docs.python.org/3/library/os.html);
 
 * среда программирования [Jupyter Notebook](https://jupyter.org/);
 
