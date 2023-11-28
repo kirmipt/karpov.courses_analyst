@@ -90,6 +90,6 @@
 
 * язык запросов SQL ([ClickHouse](https://clickhouse.com/docs/ru/), [PostgreSQL](https://www.postgresql.org/));
 
-* BI-система [Tableau](https://www.tableau.com/).
+* BI-системы [Tableau](https://www.tableau.com/), [Redash](https://redash.io/).
 
 -----------------------------
