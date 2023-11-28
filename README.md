@@ -1,6 +1,6 @@
 # karpov.courses_analyst
 
-<details>
+
 <kbd>Все проекты, лекции и практические задания находятся здесь</kbd>
 
 * [Python](https://github.com/QuantumFluxx/karpov_courses/tree/main/Python)
