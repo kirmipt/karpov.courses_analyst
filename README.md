@@ -5,8 +5,8 @@
 <br>Без гиперссылки - непройденный материал
 
 * [**Финальный проект**](https://github.com/kirmipt/karpov.courses_analyst/tree/main/12%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
-  + [1 часть: Обработка данных из нескольких источников, выбор метрик и A/B тест(python)](https://github.com/kirmipt/karpov.courses_analyst/blob/main/12%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1%20(1).ipynb)
-  + [2 часть: Вывод нескольких метрик по данным из 3-ех таблиц в одном запросе sql](https://github.com/kirmipt/karpov.courses_analyst/blob/main/12%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2.ipynb)
+  + [1 часть: Обработка и соединение данных из нескольких таблиц, выбор метрик и A/B тест(python)](https://github.com/kirmipt/karpov.courses_analyst/blob/main/12%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1%20(1).ipynb)
+  + [2 часть: Подсчет нескольких метрик по данным из 3-ех таблиц в одном запросе sql](https://github.com/kirmipt/karpov.courses_analyst/blob/main/12%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2.ipynb)
   + [3 часть: Функция обновления значений метрик и p-value при подгрузке новых данных + визуализация(python)](https://github.com/kirmipt/karpov.courses_analyst/blob/main/12%20%D0%A4%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_3.ipynb)
 
 * [Python](https://github.com/kirmipt/karpov.courses_analyst/tree/main/1%20Python)-в упражнениях я не соблюдал [стиль названий переменных](https://github.com/kirmipt/karpov.courses_analyst/blob/main/%D1%81%D1%82%D0%B8%D0%BB%D1%8C.txt), я понимаю, что это не приемлимо.
